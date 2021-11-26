@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		059E46832750CF50006DA1EA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E46822750CF50006DA1EA /* main.swift */; };
+		059E468A27512F70006DA1EA /* BookShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E468927512F70006DA1EA /* BookShop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		059E467F2750CF50006DA1EA /* 7l_Ryskul_Asset */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 7l_Ryskul_Asset; sourceTree = BUILT_PRODUCTS_DIR; };
 		059E46822750CF50006DA1EA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		059E468927512F70006DA1EA /* BookShop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookShop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				059E46822750CF50006DA1EA /* main.swift */,
+				059E468927512F70006DA1EA /* BookShop.swift */,
 			);
 			path = 7l_Ryskul_Asset;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				059E468A27512F70006DA1EA /* BookShop.swift in Sources */,
 				059E46832750CF50006DA1EA /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
